@@ -1,3 +1,8 @@
+<script>
+    import Article from '../Article.svelte';
+</script>
+
+
 <div class="grid grid-cols-3 grid-rows-5 gap-3 h-screen 
 sm:grid-cols-1">
     <div class="flex justify-center sm:row-span-full ... bg-blue-400 max-h-screen max-w-full"><img src="src\lib\images\timeline2.svg" alt="timeline" class="sm:w-450 transform rotate-90 sm:rotate-0 sm:scale-80 hidden sm:block sm:h-100 h-10"></div>
@@ -13,5 +18,5 @@ sm:grid-cols-1">
 </div>
 
 <div class="hidden sm:grid">
-    
+    <Article />
 </div>
