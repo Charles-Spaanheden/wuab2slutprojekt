@@ -1,3 +1,4 @@
-<div class="grid grid-cols-2 grid-rows-3 bg-blue-600">
-    <h1>hej</h1>
+<div class="grid grid-cols-2 grid-rows-3  bg-white w-100 border-1">
+    <div class="row-span-2"></div>
+    <div></div>
 </div>

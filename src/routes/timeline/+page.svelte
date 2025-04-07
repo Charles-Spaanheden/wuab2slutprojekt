@@ -3,7 +3,7 @@
     let isExpanded = false;
 </script>
 
-<div class="grid grid-cols-3 grid-rows-5 gap-3 h-screen sm:grid-cols-1">
+<div class="grid grid-cols-3 grid-rows-5 gap-3 sm:gap-0 h-screen sm:grid-cols-1">
     <button 
         class="absolute top-4 left-4 bg-blue-500 text-white px-4 py-2 rounded"
         on:click={() => isExpanded = !isExpanded}>
@@ -29,7 +29,7 @@
     <div class="col-span-2 sm:hidden bg-blue-300">5</div>
 
     <div 
-        class="hidden sm:grid"
+        class="hidden sm:grid justify-items-center bg-blue-400 p-4"
         class:row-span-3={!isExpanded}
         class:sm:hidden={isExpanded}>
         <Article />
