@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="364" height="40" viewBox="0 0 364 40" fill="none">
+<line id="Line 5" x1="300" y1="21" x2="364" y2="21" stroke="black" stroke-width="10"/>
+<line id="Line 4" x1="251" y1="21" x2="315" y2="21" stroke="black" stroke-width="10"/>
+<line id="Line 3" x1="182" y1="21" x2="246" y2="21" stroke="black" stroke-width="10"/>
+<line id="Line 2" x1="113" y1="21" x2="177" y2="21" stroke="black" stroke-width="10"/>
+<line id="Line 1" x1="44" y1="21" x2="108" y2="21" stroke="black" stroke-width="10"/>
+<line id="Line 6" y1="21" x2="64" y2="21" stroke="black" stroke-width="10"/>
+<circle id="Ellipse 5" cx="320" cy="20" r="20" fill="#0B0B0B"/>
+<circle id="Ellipse 4" cx="251" cy="20" r="20" fill="#0B0B0B"/>
+<circle id="Ellipse 3" cx="182" cy="20" r="20" fill="#0B0B0B"/>
+<circle id="Ellipse 2" cx="113" cy="20" r="20" fill="#0B0B0B"/>
+<circle id="Ellipse 1" cx="44" cy="20" r="20" fill="#0B0B0B"/>
+</svg>
